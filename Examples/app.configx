@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<configuration>
+  <connectionStrings>
+    <clear/>
+    <add name="conn1" providerName="System.Data.SqlClient"
+      connectionString="Data Source=server1;Initial Catalog=db1;User ID=sa;Password=sa;Trusted_Connection=False;MultipleActiveResultSets=True" />
+    <add name="conn2"  providerName="System.Data.SqlClient"
+         connectionString="Data Source=server2;Initial Catalog=db2;User ID=sa;Password=sa;Trusted_Connection=False;"/>
+  </connectionStrings>
+</configuration>
+
