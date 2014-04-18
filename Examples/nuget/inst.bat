@@ -1,0 +1,2 @@
+scriptcs -install scriptcs.configurationpack
+pause
